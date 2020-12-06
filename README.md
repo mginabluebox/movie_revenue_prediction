@@ -28,6 +28,13 @@ We used data from Kaggle's [The Movie Dataset](https://www.kaggle.com/rounakbani
 * Trained and tuned decision tree regressor and SVR 
 * Wrote some parts of the write-up and assisted in write-up editing
 
+[**Mars Wei-Lun Huang**](https://github.com/ntu519198)
+* Created is_topk_director/actor, directors’ and actors’ log(revenue) feature variables.
+* Created graph of the trend of actors’ log(revenue) and EDA
+* Trained and Tuned Hyper-parameters for Gradient Boosting Regression Tree
+* Added explanation for target variable
+* Assisted in model explanations
+
 **John Fitzpatrick**
 * Assisted with planning and scheduling
 * Created gender_score and has_oscar_winner feature variables
@@ -35,12 +42,7 @@ We used data from Kaggle's [The Movie Dataset](https://www.kaggle.com/rounakbani
 * Consulted on model selection process
 * Wrote much of the first draft of the report and helped with editing
 
-**Mars Wei-Lun Huang**
-* Created is_topk_director/actor, directors’ and actors’ log(revenue) feature variables.
-* Created graph of the trend of actors’ log(revenue) and EDA
-* Trained and Tuned Hyper-parameters for Gradient Boosting Regression Tree
-* Added explanation for target variable
-* Assisted in model explanations
+
 
 
 
