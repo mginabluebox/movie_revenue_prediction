@@ -1,5 +1,10 @@
 # Movie Revenue Prediction Considering Gender Diversity and Star Power
-This is Team Unsupervised Learner's repo of our term project for *DS-GA 1001 Introduction to Data Science* at New York University Center for Data Science. Read our final report here: [Project Write-Up](https://github.com/mginabluebox/movie_revenue_prediction/blob/master/Project%20Write-Up.pdf). 
+This is Team Unsupervised Learner's repo of our term project for *DS-GA 1001 Introduction to Data Science* at New York University Center for Data Science. **Read our final report here: [Project Write-Up](https://github.com/mginabluebox/movie_revenue_prediction/blob/master/Project%20Write-Up.pdf)**. 
+
+<p align="center">
+  <img src="https://github.com/mginabluebox/movie_revenue_prediction/blob/master/graphs/actor_log_revenue_over_years.png"><br>
+  <i>Figure 1: Average log revenue of starred movies in a 5-year running window</i>
+</p>
 
 # Abstract
 Every business strives to predict consumer behavior and deliver what their consumers want. In 2019, the movie industry grossed over $100 billion, but the astronomical costs of producing a movie mean that even experienced and well-funded studios can struggle to produce multiple consistently profitable films each year. According to our data, the average major studio produced only 1.8 films per year at an average cost of $40.5 million per film. Through machine learning and data analysis techniques, we hope to identify key factors that predict box office success, and how changes in them affect a movie’s revenue. 
