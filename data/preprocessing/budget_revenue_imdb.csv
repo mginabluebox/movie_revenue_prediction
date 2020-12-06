@@ -1,0 +1,125 @@
+index,budget,revenue,title,imdb_id,release_date,gross,budget_new,opening_weekend,cum_worldwide
+5316,1.0,1.0,The Letters,tt1445208,2015-12-04,"{'Budget': '$20,000,000 (estimated)', 'Opening Weekend United States': '$700,683, 06 Dec 2015'}",20000000 ,700683,1.0
+85,2.0,1.0,Mute Witness,tt0110604,1995-09-28,"{'Budget': '$2,000,000 (estimated)'}",2000000 ,1.0,1.0
+4160,592.0,1.0,The Merry Widow,tt0016104,1925-08-26,"{'Budget': '$608,016 (estimated)', 'Cumulative Worldwide Gross': '$4,142,000'}",608016 ,1.0,4142000
+54,20000000.0,1.0,Anne Frank Remembered,tt0112373,1995-06-08,None,20000000.0,1.0,1.0
+642,20000000.0,1.0,Washington Square,tt0120481,1997-10-10,"{'Opening Weekend United States': '$14,352, 05 Oct 1997'}",20000000.0,14352,1.0
+1027,20000000.0,1.0,Belizaire the Cajun,tt0090710,1986-06-13,"{'Opening Weekend United States': '$4,084, 15 Jun 1986'}",20000000.0,4084,1.0
+1933,20000000.0,1.0,Extreme Days,tt0245891,2001-09-28,"{'Opening Weekend United States': '$522,813, 30 Sep 2001'}",20000000.0,522813,1.0
+5384,20000000.0,1.0,The Lonely Lady,tt0085863,1983-10-02,"{'Budget': '$5,000,000 (estimated)', 'Opening Weekend United States': '$1,223,220, 02 Oct 1983'}",5000000 ,1223220,1.0
+3762,200000.0,3.0,Dr. Horrible's Sing-Along Blog,tt1227926,2008-07-15,None,200000.0,3.0,3.0
+2800,20000000.0,3.0,The Sentinel,tt0076683,1977-01-07,"{'Budget': '$3,700,000 (estimated)'}",3700000 ,3.0,3.0
+2860,20000000.0,3.0,Last Summer,tt0064573,1969-06-10,"{'Budget': '$780,000 (estimated)'}",780000 ,3.0,3.0
+2944,30.0,4.0,Man Trouble,tt0104804,1992-07-17,"{'Budget': '$30,000,000 (estimated)'}",30000000 ,4.0,4.0
+2009,344.0,4.0,American Adobo,tt0294289,2001-09-29,None,344.0,4.0,4.0
+371,1.0,5.0,East of Eden,tt0048028,1955-03-09,None,1.0,5.0,5.0
+126,6.0,5.0,Miami Rhapsody,tt0113808,1995-01-27,None,6.0,5.0,5.0
+293,20000000.0,5.0,Last Dance,tt0116827,1996-05-02,None,20000000.0,5.0,5.0
+1150,6400000.0,6.0,Never Talk to Strangers,tt0113965,1995-10-20,"{'Budget': '$6,400,000 (estimated)'}",6400000 ,6.0,6.0
+1239,2000000.0,7.0,Dreaming of Joseph Lees,tt0144178,1999-10-29,"{'Budget': 'GBP2,000,000 (estimated)', 'Opening Weekend United States': '$7,680, 31 Oct 1999'}",GBP2000000 ,7680,7.0
+686,20000000.0,7.0,Star Kid,tt0120478,1997-01-16,"{'Budget': '$12,000,000 (estimated)', 'Opening Weekend United States': '$3,033,609, 19 Jan 1998'}",12000000 ,3033609,7.0
+5196,20000000.0,7.0,He-Man and She-Ra: The Secret of the Sword,tt0089984,1985-01-01,"{'Budget': '$2,000,000 (estimated)', 'Cumulative Worldwide Gross': '$7,886,848'}",2000000 ,7.0,7886848
+1619,6.0,8.0,Pollock,tt0183659,2000-09-06,"{'Budget': '$6,000,000 (estimated)', 'Opening Weekend United States': '$305,744, 18 Feb 2001'}",6000000 ,305744,8.0
+1825,20000000.0,8.0,Satisfaction,tt0096037,1988-02-12,"{'Opening Weekend United States': '$2,779,275, 14 Feb 1988'}",20000000.0,2779275,8.0
+2717,20000000.0,8.0,Lover Come Back,tt0055100,1961-11-20,None,20000000.0,8.0,8.0
+2689,20000000.0,9.0,Gladiator 1992,tt0104346,1992-03-06,"{'Budget': '$20,000,000 (estimated)'}",20000000 ,9.0,9.0
+1225,20000000.0,10.0,Bats,tt0200469,1999-10-22,"{'Budget': '$5,250,000 (estimated)', 'Opening Weekend United States': '$4,717,902, 24 Oct 1999'}",5250000 ,4717902,10.0
+4212,20000000.0,10.0,Elektra Luxx,tt1340773,2010-03-14,"{'Opening Weekend United States': '$5,601, 13 Mar 2011'}",20000000.0,5601,10.0
+3305,11.0,11.0,F.I.S.T.,tt0077531,1978-04-26,"{'Budget': '$11,000,000 (estimated)'}",11000000 ,11.0,11.0
+2781,16000000.0,12.0,The Cookout,tt0380277,2004-09-03,"{'Opening Weekend United States': '$6,219,794, 05 Sep 2004'}",16000000.0,6219794,12.0
+2558,23000000.0,12.0,Chasing Liberty,tt0360139,2004-01-09,"{'Budget': '$23,000,000 (estimated)', 'Opening Weekend United States': '$6,081,483, 11 Jan 2004'}",23000000 ,6081483,12.0
+1308,25.0,13.0,Angela's Ashes,tt0145653,1999-12-25,"{'Budget': '$50,000,000 (estimated)', 'Opening Weekend United States': '$54,628, 26 Dec 1999'}",50000000 ,54628,13.0
+891,20000000.0,15.0,Dance with Me,tt0120576,1998-08-21,"{'Opening Weekend United States': '$4,507,663, 23 Aug 1998'}",20000000.0,4507663,15.0
+89,8.0,16.0,The Prophecy,tt0114194,1995-09-01,"{'Budget': '$8,000,000 (estimated)'}",8000000 ,16.0,16.0
+4241,10000000.0,18.0,Deadfall,tt0106684,1993-10-08,"{'Budget': '$10,000,000 (estimated)'}",10000000 ,18.0,18.0
+5565,20000000.0,18.0,Windwalker,tt0081760,1980-12-12,"{'Budget': '$3,000,000 (estimated)'}",3000000 ,18.0,18.0
+2432,118.0,19.0,"Same Time, Next Year",tt0078199,1978-04-23,None,118.0,19.0,19.0
+3383,8.0,21.0,Starter for 10,tt0477095,2006-09-13,"{'Opening Weekend United Kingdom': 'GBP207,345, 12 Nov 2006'}",8.0,21.0,21.0
+2475,12000000.0,23.0,In the Cut,tt0199626,2003-09-09,"{'Budget': '$12,000,000 (estimated)', 'Opening Weekend United Kingdom': 'GBP279,068, 02 Nov 2003', 'Cumulative Worldwide Gross': '$23,726,793'}",12000000 ,23.0,23726793
+731,20000000.0,24.0,Dream for an Insomniac,tt0116141,1996-04-18,None,20000000.0,24.0,24.0
+380,4.0,25.0,A Farewell to Arms,tt0022879,1932-12-08,"{'Budget': '$799,520 (estimated)'}",799520 ,25.0,25.0
+450,4.0,29.0,Madonna: Truth or Dare,tt0102370,1991-05-10,"{'Budget': '$4,500,000 (estimated)', 'Opening Weekend United States': '$543,250', 'Cumulative Worldwide Gross': '$29,012,935'}",4500000 ,543,29012935
+3381,2000000.0,30.0,Zyzzyx Road,tt0429277,2006-02-25,"{'Budget': '$2,000,000 (estimated)', 'Opening Weekend United States': '$20, 26 Feb 2006'}",2000000 ,20,30.0
+202,20000000.0,30.0,The Getaway,tt0109890,1994-02-11,"{'Cumulative Worldwide Gross': '$30,059,000'}",20000000.0,30.0,30059000
+43,20000000.0,32.0,Black Sheep,tt0115697,1996-02-01,None,20000000.0,32.0,32.0
+2963,500.0,41.0,Assisted Living,tt0361322,2005-02-02,"{'Budget': '$500,000 (estimated)', 'Opening Weekend United States': '$14,146, 06 Feb 2005'}",500000 ,14146,41.0
+4708,20000000.0,43.0,The Wedding Party,tt0065198,1969-04-09,"{'Budget': '$43,000 (estimated)'}",43000 ,43.0,43.0
+4847,20000000.0,44.0,12 O’Clock Boys,tt2420006,2013-01-31,"{'Opening Weekend United States': '$44,108, 02 Feb 2014', 'Cumulative Worldwide Gross': '$2,600,200, 16 Jun 2015'}",20000000.0,44108,2600200 16 Jun 2015
+2559,20000000.0,51.0,My Baby's Daddy,tt0332712,2004-01-09,"{'Opening Weekend United States': '$7,548,819, 11 Jan 2004'}",20000000.0,7548819,51.0
+5531,20000000.0,60.0,Billy Gardell: Halftime,tt1860180,2011-02-05,None,20000000.0,60.0,60.0
+3993,20000000.0,80.0,Waking Sleeping Beauty,tt1159961,2009-09-05,"{'Opening Weekend United States': '$33,115, 28 Mar 2010'}",20000000.0,33115,80.0
+4697,50.0,83.0,The Immortals,tt0113394,1995-10-05,None,50.0,83.0,83.0
+2096,5.0,85.0,Every Which Way But Loose,tt0077523,1978-12-19,"{'Budget': '$5,000,000 (estimated)', 'Opening Weekend United States': '$10,272,000, 24 Dec 1978'}",5000000 ,10272000,85.0
+3273,20000000.0,88.0,Blood on the Moon,tt0040175,1948-11-09,None,20000000.0,88.0,88.0
+5425,20000000.0,97.0,"The Life and Death of 9413, a Hollywood Extra",tt0131461,1928-06-16,None,20000000.0,97.0,97.0
+1085,1.0,100.0,Lost & Found,tt0120836,1999-04-23,"{'Budget': '$30,000,000 (estimated)', 'Opening Weekend United States': '$3,024,709, 25 Apr 1999'}",30000000 ,3024709,100.0
+1598,30.0,103.0,Rugrats in Paris: The Movie,tt0213203,2000-09-14,"{'Budget': '$30,000,000 (estimated)', 'Cumulative Worldwide Gross': '$103,291,131'}",30000000 ,103.0,103291131
+379,20000000.0,105.0,The Last Time I Saw Paris,tt0047162,1954-01-01,"{'Budget': '$1,960,000 (estimated)'}",1960000 ,105.0,105.0
+2688,20000000.0,121.0,Sunrise: A Song of Two Humans,tt0018455,1927-09-23,"{'Budget': '$200,000 (estimated)', 'Cumulative Worldwide Gross': '$208,027'}",200000 ,121.0,208027
+4617,20000000.0,125.0,A Band Called Death,tt2064713,2013-06-27,"{'Opening Weekend United States': '$34,839, 30 Jun 2013'}",20000000.0,34839,125.0
+5088,20000000.0,161.0,Last Days in Vietnam,tt3279124,2014-09-05,"{'Opening Weekend United States': '$30,500, 05 Sep 2014'}",20000000.0,30500,161.0
+903,250.0,203.0,I Married a Strange Person!,tt0119346,1998-08-28,"{'Budget': '$250,000 (estimated)', 'Opening Weekend United States': '$13,472, 30 Aug 1998'}",250000 ,13472,203.0
+5436,20000000.0,252.0,Satanic,tt4796122,2016-07-01,None,20000000.0,252.0,252.0
+3438,20000000.0,259.0,Alan & Naomi,tt0103640,1992-01-31,None,20000000.0,259.0,259.0
+3908,450.0,288.0,Sunday,tt0120244,1997-08-27,"{'Budget': '$450,000 (estimated)', 'Opening Weekend United States': '$25,682, 24 Aug 1997'}",450000 ,25682,288.0
+2052,20000000.0,344.0,I Think I Do,tt0125209,1998-04-10,"{'Opening Weekend United States': '$33,633, 12 Apr 1998'}",20000000.0,33633,344.0
+5615,20000000.0,422.0,2:22,tt1131724,2017-06-29,"{'Cumulative Worldwide Gross': '$4,600,000, 22 Feb 2018'}",20000000.0,422.0,4600000 22 Feb 2018
+5555,20000000.0,500.0,Gary Gulman: It's About Time,tt5661030,2016-05-01,None,20000000.0,500.0,500.0
+4391,20000000.0,525.0,Meeting Evil,tt1810697,2012-05-03,"{'Opening Weekend United States': '$181, 06 May 2012'}",20000000.0,181,525.0
+4224,337.0,551.0,The Mysterious Lady,tt0019195,1928-08-04,"{'Budget': '$337,000 (estimated)', 'Cumulative Worldwide Gross': '$551,000'}",337000 ,551.0,551000
+2695,20000000.0,623.0,Safety Last!,tt0014429,1923-04-01,"{'Budget': '$121,000 (estimated)'}",121000 ,623.0,623.0
+4701,20000000.0,809.0,I Spit on Your Grave 2,tt2537176,2013-08-25,"{'Opening Weekend United States': '$441, 22 Sep 2013'}",20000000.0,441,809.0
+3771,280.0,831.0,Star of Midnight,tt0027040,1935-04-19,"{'Budget': '$280,000 (estimated)'}",280000 ,831.0,831.0
+5214,20000000.0,1081.0,The Butterfly Room,tt1612782,2012-08-04,None,20000000.0,1081.0,1081.0
+4252,20000000.0,1279.0,An Invisible Sign,tt1212454,2010-10-06,"{'Opening Weekend United States': '$854, 05 May 2011'}",20000000.0,854,1279.0
+4449,1.0,1378.0,"Love, Wedding, Marriage",tt1436559,2011-06-03,"{'Budget': '$12,000,000 (estimated)', 'Opening Weekend United States': '$1,378, 05 Jun 2011'}",12000000 ,1378,1378.0
+4606,1200000.0,1404.0,Poor White Trash,tt0204350,2000-06-16,"{'Budget': '$1,200,000 (estimated)', 'Opening Weekend United States': '$1,813, 03 Dec 2000'}",1200000 ,1813,1404.0
+5102,20000000.0,1469.0,The Package,tt1884457,2013-02-09,"{'Opening Weekend United States': '$1,095, 17 Feb 2013'}",20000000.0,1095,1469.0
+2258,130000.0,1596.0,Running Time,tt0120042,1997-12-18,"{'Budget': '$130,000 (estimated)'}",130000 ,1596.0,1596.0
+435,20000000.0,1910.0,American Strays,tt0115531,1996-09-12,None,20000000.0,1910.0,1910.0
+4817,1500000.0,1938.0,Best Man Down,tt1885300,2012-10-20,"{'Budget': '$1,500,000 (estimated)', 'Opening Weekend United States': '$60, 15 Nov 2013'}",1500000 ,60,1938.0
+1228,20000000.0,2303.0,Men Cry Bullets,tt0148462,1998-10-08,"{'Opening Weekend United States': '$1,666, 10 Oct 1999'}",20000000.0,1666,2303.0
+5101,20000000.0,2710.0,Julia,tt2582426,2014-10-14,None,20000000.0,2710.0,2710.0
+4977,20000000.0,2756.0,V/H/S: Viral,tt3704538,2014-10-23,"{'Opening Weekend United States': '$1,221, 21 Nov 2014'}",20000000.0,1221,2756.0
+2906,5000000.0,2970.0,Philadelphia Experiment II,tt0107819,1993-11-12,"{'Budget': '$5,000,000 (estimated)', 'Opening Weekend United States': '$1,926, 14 Nov 1993'}",5000000 ,1926,2970.0
+4626,2500000.0,3003.0,About Cherry,tt1945062,2012-02-14,"{'Budget': '$2,500,000 (estimated)', 'Opening Weekend United States': '$2,760, 23 Sep 2012'}",2500000 ,2760,3003.0
+4462,3000000.0,3010.0,ATM,tt1603257,2012-02-17,"{'Budget': '$3,000,000 (estimated)', 'Opening Weekend United States': '$2,034, 08 Apr 2012'}",3000000 ,2034,3010.0
+2853,15000.0,3274.0,Eegah,tt0055946,1962-06-08,"{'Budget': '$15,000 (estimated)'}",15000 ,3274.0,3274.0
+5576,10500000.0,3451.0,Aftermath,tt4581576,2017-04-06,"{'Budget': '$10,500,000 (estimated)'}",10500000 ,3451.0,3451.0
+4834,20000000.0,4187.0,A Case of You,tt1817081,2013-11-06,None,20000000.0,4187.0,4187.0
+5434,10000000.0,4500.0,The Duel,tt2436682,2016-06-24,"{'Budget': '$10,000,000 (estimated)'}",10000000 ,4500.0,4500.0
+5399,20000000.0,4505.0,Synchronicity,tt2049543,2015-07-22,"{'Opening Weekend United States': '$2,859, 24 Jan 2016'}",20000000.0,2859,4505.0
+5279,20000000.0,4631.0,Ashby,tt3774466,2015-04-19,"{'Opening Weekend United States': '$4,631, 27 Sep 2015'}",20000000.0,4631,4631.0
+4602,6000000.0,5206.0,The Good Doctor,tt1582271,2011-01-01,"{'Budget': '$6,000,000 (estimated)', 'Opening Weekend United States': '$3,180, 02 Sep 2012'}",6000000 ,3180,5206.0
+3412,20000000.0,5965.0,The Grace Lee Project,tt0451070,2005-03-11,"{'Opening Weekend United States': '$4,225, 18 Dec 2005'}",20000000.0,4225,5965.0
+5160,20000000.0,6075.0,Barely Lethal,tt1731701,2015-04-30,"{'Budget': '$15,000,000 (estimated)'}",15000000 ,6075.0,6075.0
+4752,7000000.0,6147.0,Sweetwater,tt2224004,2013-01-24,"{'Budget': '$7,000,000 (estimated)'}",7000000 ,6147.0,6147.0
+3996,20000000.0,6297.0,Don's Plum,tt0119004,2001-02-10,None,20000000.0,6297.0,6297.0
+5212,20000000.0,6420.0,Some Velvet Morning,tt2231138,2013-12-10,"{'Budget': '$2,000,000 (estimated)'}",2000000 ,6420.0,6420.0
+5554,20000000.0,6700.0,Lovesong,tt4305148,2017-02-17,"{'Opening Weekend United States': '$2,215, 17 Feb 2017'}",20000000.0,2215,6700.0
+5382,20000000.0,7000.0,Too Late,tt2394063,2016-03-25,"{'Opening Weekend United States': '$7,000, 20 Mar 2016'}",20000000.0,7000,7000.0
+4976,20000000.0,7171.0,ABCs of Death 2,tt2926810,2014-10-02,"{'Opening Weekend United States': '$4,022, 31 Oct 2014'}",20000000.0,4022,7171.0
+3807,1000000.0,7202.0,Special,tt0479162,2006-01-30,"{'Budget': '$1,000,000 (estimated)', 'Opening Weekend United States': '$3,232, 23 Nov 2008'}",1000000 ,3232,7202.0
+5024,20000000.0,7205.0,I Am Ali,tt4008652,2014-10-10,None,20000000.0,7205.0,7205.0
+4203,2000000.0,7306.0,Stolen,tt1139282,2009-10-10,"{'Budget': '$2,000,000 (estimated)', 'Opening Weekend United States': '$1,391, 19 Mar 2010'}",2000000 ,1391,7306.0
+4727,20000000.0,7965.0,One Small Hitch,tt1937269,2013-02-14,"{'Budget': '$500,000 (estimated)', 'Opening Weekend United States': '$5,328, 08 Feb 2015'}",500000 ,5328,7965.0
+4272,20000000.0,8020.0,Wrecked,tt1316622,2010-12-04,"{'Opening Weekend United States': '$2,054, 01 Apr 2011'}",20000000.0,2054,8020.0
+4958,20000000.0,8251.0,Before I Disappear,tt3060492,2014-10-11,"{'Opening Weekend United States': '$2,676, 28 Nov 2014'}",20000000.0,2676,8251.0
+4964,20000000.0,8265.0,Life Partners,tt2870808,2014-12-05,"{'Opening Weekend United States': '$2,665, 05 Dec 2014'}",20000000.0,2665,8265.0
+3523,20000000.0,8768.0,Smiley Face,tt0780608,2007-01-21,"{'Opening Weekend United States': '$5,993, 18 Nov 2007', 'Cumulative Worldwide Gross': '$179,381, 10 Feb 2008'}",20000000.0,5993,179381 10 Feb 2008
+4161,10000000.0,9069.0,Janky Promoters,tt1210071,2009-10-16,"{'Opening Weekend United States': '$5,702, 18 Oct 2009'}",10000000.0,5702,9069.0
+1045,20000000.0,9090.0,Eight Days a Week,tt0119054,1997-01-17,"{'Opening Weekend United States': '$9,090, 28 Feb 1999'}",20000000.0,9090,9090.0
+5495,20000000.0,9188.0,Frank & Lola,tt1290138,2016-12-09,None,20000000.0,9188.0,9188.0
+5010,20000000.0,9195.0,Ghost Team One,tt2272336,2013-01-20,None,20000000.0,9195.0,9195.0
+4904,4000000.0,9221.0,The Sacrament,tt2383068,2013-09-02,"{'Budget': '$4,000,000 (estimated)', 'Opening Weekend United States': '$583, 08 Jun 2014'}",4000000 ,583,9221.0
+4915,1000000.0,9318.0,Honeymoon,tt3177316,2014-09-12,"{'Budget': '$1,000,000 (estimated)', 'Opening Weekend United States': '$4,131, 12 Sep 2014'}",1000000 ,4131,9318.0
+4605,8500000.0,9747.0,Welcome to the Punch,tt1684233,2013-03-15,"{'Budget': '$8,500,000 (estimated)'}",8500000 ,9747.0,9747.0
+1035,7300.0,13674.0,"Blood, Guts, Bullets and Octane",tt0163984,1998-10-16,"{'Budget': '$7,300 (estimated)', 'Opening Weekend United States': '$7,560, 11 Apr 1999'}",7300 ,7560,13674.0
+3583,2500.0,15425.0,Quiet City,tt0914382,2007-03-12,"{'Budget': '$2,500 (estimated)', 'Opening Weekend United States': '$6,045, 02 Sep 2007'}",2500 ,6045,15425.0
+2807,7000.0,424760.0,Primer,tt0390384,2004-10-08,"{'Budget': '$7,000 (estimated)', 'Opening Weekend United States': '$28,162, 10 Oct 2004'}",7000 ,28162,424760.0
+2814,218.0,1162014.0,Tarnation,tt0390538,2003-10-19,"{'Budget': '$218 (estimated)', 'Opening Weekend United States': '$12,740, 10 Oct 2004'}",218 ,12740,1162014.0
+4141,93.0,2500000.0,From Prada to Nada,tt0893412,2011-01-28,None,93.0,2500000.0,2500000.0
+1413,1.0,8500000.0,Modern Times,tt0027977,1936-02-05,"{'Budget': '$1,500,000 (estimated)', 'Opening Weekend United States': '$11,507, 09 Jan 2004'}",1500000 ,11507,8500000.0
+5020,10.0,10000000.0,Nurse 3-D,tt1913166,2013-09-28,"{'Budget': '$10,000,000 (estimated)'}",10000000 ,10000000.0,10000000.0
+1670,1.0,12396383.0,Less Than Zero,tt0093407,1987-11-06,"{'Opening Weekend United States': '$3,008,987, 08 Nov 1987'}",1.0,3008987,12396383.0
+1004,113.0,115103979.0,"The Karate Kid, Part II",tt0091326,1986-06-18,"{'Opening Weekend United States': '$12,652,336, 22 Jun 1986'}",113.0,12652336,115103979.0
