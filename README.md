@@ -4,16 +4,15 @@ This is Team Unsupervised Learner's repo of our term project for *DS-GA 1001 Int
 # Abstract
 Every business strives to predict consumer behavior and deliver what their consumers want. In 2019, the movie industry grossed over $100 billion, but the astronomical costs of producing a movie mean that even experienced and well-funded studios can struggle to produce multiple consistently profitable films each year. According to our data, the average major studio produced only 1.8 films per year at an average cost of $40.5 million per film. Through machine learning and data analysis techniques, we hope to identify key factors that predict box office success, and how changes in them affect a movie’s revenue. 
 
-On the other hand, we want to focus on two initiatives: gender diversity and star power. Since gender inequality in the entertainment industry has come under the spotlight with the advent of #MeToo movement, we are curious about how the level of gender diversity in a movie would affect its financial success. If we could identify financial incentives to increase female representation, it could accelerate the push for equality.  Moreover, we research whether the film lead’s star power influences audiences’ viewing decision.
+We also want to focus on two initiatives: gender diversity and star power. Since gender inequality in the entertainment industry has come under the spotlight with the advent of #MeToo movement, we are curious about how the level of gender diversity in a movie would affect its financial success. If we could identify financial incentives to increase female representation, it could accelerate the push for equality. Moreover, we research whether the film leads' star power influences audiences’ viewing decision.
 
-# Description 
-Our jupyter notebooks are in the [code](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/code) folder. All plots in our final report can be found in [graphs](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/graphs). Final data and files from our preprocessing step can be found in [data](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/graphs).
+# Repo Description 
+Our model results are in the [results](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/results) folder. Our fully-executed jupyter notebooks are in the [code](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/code) folder. All plots in our final report can be found in [graphs](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/graphs). Final data and files from our preprocessing step can be found in [data](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/data).
 
 # Data 
 We used data from Kaggle's [The Movie Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) and [The Oscar Award, 1927 - 2020](https://www.kaggle.com/unanimad/the-oscar-award).
 
 # Contributions
-
 [**Charlotte Ji**](https://www.github.com/mginabluebox)
 * Contributed to data cleaning and understanding, plotted revenue over years
 * Created genre and collection variables 
