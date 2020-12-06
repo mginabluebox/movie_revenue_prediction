@@ -41,7 +41,7 @@ We used data from Kaggle's [The Movie Dataset](https://www.kaggle.com/rounakbani
 - Added explanation for target variable
 - Assisted in model explanations
 
-**John Fitzpatrick**
+[**John Fitzpatrick**](https://github.com/john-fitz)
 - Assisted with planning and scheduling
 - Created gender_score and has_oscar_winner feature variables
 - Created some of the graphs and EDA
