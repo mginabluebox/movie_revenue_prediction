@@ -13,6 +13,11 @@ We also want to focus on two initiatives: gender diversity and star power. Since
 
 Our project is innovative on feature engineering. We created trend features to represent starpower using historical movie revenue data, which captures the variations in an actor's popularity over time. We further defined having award-winning actors as another aspect of starpower by cross-referencing an Oscars dataset. To represent gender diversity, we used the proportion of female actors in each movie as a proxy. On these basis, we built and compared performances of several supervised learning models including SVR, decision tree, random forest, gradient boosted decision tree and linear regressions on a train/val/test split based on movie release years. We examined the effects of our variables of interests through our linear models' results. 
 
+<p align="center">
+  <img src="https://github.com/mginabluebox/movie_revenue_prediction/blob/master/graphs/mixed_correlation_matrix.png"><br>
+  <i>Figure 2: Mixed correlation matrix combining Pearson, point-biserial and tetrachoric/polychoric correlations</i>
+</p>
+
 # Repo Description 
 Our fully-executed jupyter notebooks, containing results from our models, are in the [code](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/code) folder. Feature engineering results such as top 100 actor lists and feature rankings are in the [feature](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/feature) folder and all plots in our final report can be found in [graphs](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/graphs). Final data used in our models and outputs from our preprocessing step can be found in [data](https://github.com/mginabluebox/movie_revenue_prediction/tree/master/data).
 
